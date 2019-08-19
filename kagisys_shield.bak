@@ -108,19 +108,4 @@ Text GLabel 1850 2250 2    60   Input ~ 0
 GPIO1_D1
 Text GLabel 1850 2350 2    60   Input ~ 0
 ADC_IN0
-Text GLabel 3800 1400 0    60   Input ~ 0
-GPIO0_B3
-$Comp
-L GND #PWR?
-U 1 1 5D5A52F6
-P 4050 1400
-F 0 "#PWR?" H 4050 1150 50  0001 C CNN
-F 1 "GND" H 4050 1250 50  0000 C CNN
-F 2 "" H 4050 1400 50  0001 C CNN
-F 3 "" H 4050 1400 50  0001 C CNN
-	1    4050 1400
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3800 1400 4050 1400
 $EndSCHEMATC
