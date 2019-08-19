@@ -56,4 +56,56 @@ F 3 "" H 1550 1750 50  0001 C CNN
 	1    1550 1750
 	1    0    0    -1  
 $EndComp
+Text GLabel 1350 1150 0    60   Input ~ 0
+3.3V
+Text GLabel 1850 1150 2    60   Input ~ 0
+5V
+Text GLabel 1850 1250 2    60   Input ~ 0
+5V
+Text GLabel 1850 1350 2    60   Input ~ 0
+GND
+Text GLabel 1350 1550 0    60   Input ~ 0
+GND
+Text GLabel 1350 1250 0    60   Input ~ 0
+GPIO0_B3
+Text GLabel 1350 1350 0    60   Input ~ 0
+GPIO0_B4
+Text GLabel 1350 1450 0    60   Input ~ 0
+GPIO2_A5
+Text GLabel 1350 1650 0    60   Input ~ 0
+GPIO0_B7
+Text GLabel 1350 1750 0    60   Input ~ 0
+GPIO0_C0
+Text GLabel 1350 1850 0    60   Input ~ 0
+GPIO0_C1
+Text GLabel 1350 1950 0    60   Input ~ 0
+3.3V
+Text GLabel 1350 2050 0    60   Input ~ 0
+GPIO1_C7
+Text GLabel 1350 2150 0    60   Input ~ 0
+GPIO1_C6
+Text GLabel 1350 2250 0    60   Input ~ 0
+GPIO1_D0
+Text GLabel 1350 2350 0    60   Input ~ 0
+GND
+Text GLabel 1850 1450 2    60   Input ~ 0
+GPIO2_A1
+Text GLabel 1850 1550 2    60   Input ~ 0
+GPIO2_A0
+Text GLabel 1850 1650 2    60   Input ~ 0
+GPIO2_A2
+Text GLabel 1850 1750 2    60   Input ~ 0
+GND
+Text GLabel 1850 1850 2    60   Input ~ 0
+GPIO2_A3
+Text GLabel 1850 1950 2    60   Input ~ 0
+GPIO2_B1
+Text GLabel 1850 2050 2    60   Input ~ 0
+GND
+Text GLabel 1850 2150 2    60   Input ~ 0
+GPIO0_B6
+Text GLabel 1850 2250 2    60   Input ~ 0
+GPIO1_D1
+Text GLabel 1850 2350 2    60   Input ~ 0
+ADC_IN0
 $EndSCHEMATC
